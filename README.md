@@ -25,7 +25,7 @@ This is a full-stack note-taking web application built with:
 
 ```sh
 git clone <the-repo-url>
-cd Benitez-4c9a4f
+cd NotesApp
 ```
 
 ### 2. Configure Database
